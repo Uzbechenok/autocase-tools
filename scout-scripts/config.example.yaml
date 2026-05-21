@@ -1,0 +1,13 @@
+avito:
+  client_id: "ваш_client_id"
+  client_secret: "ваш_client_secret"
+
+analysis:
+  period_start: "2026-04-21"
+  period_end: "2026-05-21"
+  only_new_dialogs: true
+
+checklist:
+  max_first_response_minutes: 5
+  max_response_gap_minutes: 60
+  max_silence_hours: 24
