@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "client": "autocase",
+    "period": "21.04.2026 — 21.05.2026",
+    "generated": "21.05.2026 17:48",
+    "source": "Avito API (Messenger v2/v3)",
+    "mode": "READ-ONLY"
+  },
+  "top_dialogs": [
+    {
+      "id": "u2i-6Tap9ET2rzqoqgxVTIMFDA",
+      "title": "Чехлы Lexus LX570 (2015-2021) 3D ромб",
+      "score": 75.0,
+      "url": "https://www.avito.ru/messages/u2i-6Tap9ET2rzqoqgxVTIMFDA",
+      "stats": {
+        "total_messages": 157,
+        "manager_messages": 62,
+        "client_messages": 95,
+        "first_response_min": 2.8,
+        "contact_obtained": true,
+        "delivery_discussed": true,
+        "details_discussed": true,
+        "follow_up_done": true
+      }
+    },
+    {
+      "id": "u2i-BGF2U4dVo8tdGSx6n_pDNg",
+      "title": "Чехлы на сиденья Mitsubishi Delica",
+      "score": 75.0,
+      "url": "https://www.avito.ru/messages/u2i-BGF2U4dVo8tdGSx6n_pDNg",
+      "stats": {
+        "total_messages": 46,
+        "manager_messages": 35,
+        "client_messages": 11,
+        "first_response_min": 4.5,
+        "contact_obtained": true,
+        "delivery_discussed": true,
+        "details_discussed": true,
+        "follow_up_done": true
+      }
+    },
+    {
+      "id": "u2i-GsKfZbJfSC5QhnY7uOJKjA",
+      "title": "Чехлы Honda Odyssey 2",
+      "score": 75.0,
+      "url": "https://www.avito.ru/messages/u2i-GsKfZbJfSC5QhnY7uOJKjA",
+      "stats": {
+        "total_messages": 40,
+        "manager_messages": 33,
+        "client_messages": 7,
+        "first_response_min": -83.7,
+        "contact_obtained": true,
+        "delivery_discussed": true,
+        "details_discussed": true,
+        "follow_up_done": true
+      }
+    },
+    {
+      "id": "u2i-sCmXhku8T9s6gXdhv8XRlg",
+      "title": "Чехлы на Honda CR-V 5",
+      "score": 75.0,
+      "url": "https://www.avito.ru/messages/u2i-sCmXhku8T9s6gXdhv8XRlg",
+      "stats": {
+        "total_messages": 42,
+        "manager_messages": 37,
+        "client_messages": 5,
+        "first_response_min": 4.8,
+        "contact_obtained": true,
+        "delivery_discussed": true,
+        "details_discussed": true,
+        "follow_up_done": true
+      }
+    },
+    {
+      "id": "u2i-f4mg4NZ9zUPABr~OI1gcYg",
+      "title": "Чехлы на Lexus RX 2008 - 2015 (в наличии)",
+      "score": 75.0,
+      "url": "https://www.avito.ru/messages/u2i-f4mg4NZ9zUPABr~OI1gcYg",
+      "stats": {
+        "total_messages": 44,
+        "manager_messages": 30,
+        "client_messages": 14,
+        "first_response_min": -23.5,
+        "contact_obtained": true,
+        "delivery_discussed": true,
+        "details_discussed": true,
+        "follow_up_done": true
+      }
+    }
+  ],
+  "bottom_dialogs": [
+    {
+      "id": "u2i-AfmjSafWgyCVd0oYJ8REIw",
+      "title": "Чехлы автомобильные",
+      "score": 0.0,
+      "url": "https://www.avito.ru/messages/u2i-AfmjSafWgyCVd0oYJ8REIw",
+      "stats": {
+        "total_messages": 3,
+        "manager_messages": 1,
+        "client_messages": 2,
+        "first_response_min": 55.6,
+        "client_left": true,
+        "silence_24h": true
+      },
+      "reasons": [
+        "диалог оборвался на 1-3 сообщениях",
+        "контакт не получен",
+        "клиент перестал отвечать"
+      ]
+    },
+    {
+      "id": "u2i-Bc7aD9dI9ntyuQ4dXGJDaA",
+      "title": "Авточехлы (индивидуально) для моделей Lexus",
+      "score": 0.0,
+      "url": "https://www.avito.ru/messages/u2i-Bc7aD9dI9ntyuQ4dXGJDaA",
+      "stats": {
+        "total_messages": 5,
+        "manager_messages": 2,
+        "client_messages": 3,
+        "first_response_min": 152.7,
+        "client_left": true,
+        "silence_24h": true
+      },
+      "reasons": [
+        "медленный ответ (153 мин)",
+        "контакт не получен",
+        "клиент перестал отвечать"
+      ]
+    },
+    {
+      "id": "u2i-WK~z28zkZVYk6S~BIywERw",
+      "title": "Чехлы на Toyota Alphard",
+      "score": 0.0,
+      "url": "https://www.avito.ru/messages/u2i-WK~z28zkZVYk6S~BIywERw",
+      "stats": {
+        "total_messages": 4,
+        "manager_messages": 2,
+        "client_messages": 2,
+        "first_response_min": 356.7,
+        "client_left": true,
+        "silence_24h": true
+      },
+      "reasons": [
+        "медленный ответ (357 мин)",
+        "диалог оборвался на 1-3 сообщениях",
+        "контакт не получен",
+        "клиент перестал отвечать"
+      ]
+    },
+    {
+      "id": "u2i-FAx4kvA7q8G0QPxFY3UY4A",
+      "title": "Авто-чехлы, под заказ",
+      "score": 0.0,
+      "url": "https://www.avito.ru/messages/u2i-FAx4kvA7q8G0QPxFY3UY4A",
+      "stats": {
+        "total_messages": 5,
+        "manager_messages": 1,
+        "client_messages": 4,
+        "first_response_min": 502.4,
+        "client_left": true,
+        "silence_24h": true
+      },
+      "reasons": [
+        "медленный ответ (502 мин)",
+        "контакт не получен",
+        "клиент перестал отвечать"
+      ]
+    },
+    {
+      "id": "u2i-Tef8M2Zplkx2AXluiXnPDA",
+      "title": "Чехлы Honda Vezel",
+      "score": 0.0,
+      "url": "https://www.avito.ru/messages/u2i-Tef8M2Zplkx2AXluiXnPDA",
+      "stats": {
+        "total_messages": 3,
+        "manager_messages": 1,
+        "client_messages": 2,
+        "first_response_min": 623.8,
+        "client_left": true,
+        "silence_24h": true
+      },
+      "reasons": [
+        "медленный ответ (624 мин)",
+        "диалог оборвался на 1-3 сообщениях",
+        "контакт не получен",
+        "клиент перестал отвечать"
+      ]
+    }
+  ],
+  "techniques": [
+    {
+      "name": "Комплименты",
+      "usage_pct": 2,
+      "count": "1 из 50 в выборке",
+      "effective": true,
+      "examples": [
+        "«отличный выбор. вышивка на спинках нужна или без неё?»"
+      ],
+      "improvement": "Использовать в каждом диалоге: «отличный выбор модели», «хороший вкус». Это повышает лояльность и лояльность."
+    },
+    {
+      "name": "Социальное доказательство",
+      "usage_pct": 0,
+      "count": "не обнаружено",
+      "effective": true,
+      "examples": [],
+      "improvement": "Внедрить: «Эту модель берут чаще всего», «Большинство владельцев Тойоты Альфард выбирают ромбовую перфорацию». Увеличивает доверие на 30%."
+    },
+    {
+      "name": "Срочность/дефицит",
+      "usage_pct": 10,
+      "count": "5 из 50",
+      "effective": true,
+      "examples": [
+        "«при изготовлении чехлов мы ограничены формой сидений»"
+      ],
+      "improvement": "Использовать активнее: «Осталось 2 комплекта на эту модель», «Сейчас сезон — заказов много, срок изготовления 2 недели»."
+    },
+    {
+      "name": "Предложение альтернативы",
+      "usage_pct": 0,
+      "count": "не обнаружено",
+      "effective": true,
+      "examples": [],
+      "improvement": "Внедрить обязательно: «Есть вариант подешевле из экокожи и премиум из алькантары». Повышает конверсию на 15-20%."
+    },
+    {
+      "name": "Перефразирование (техника «своими словами»)",
+      "usage_pct": 6,
+      "count": "3 из 50",
+      "effective": true,
+      "examples": [
+        "«понимаем, что время важно. но ведь мы говорим о чехлах, которые будут радовать вас каждый день»"
+      ],
+      "improvement": "Использовать в 50% диалогов: «Я правильно понял, вам нужны чехлы на Тойоту Кроун 2008 года? Давайте подберем»."
+    },
+    {
+      "name": "Персонализация",
+      "usage_pct": 6,
+      "count": "3 из 50",
+      "effective": true,
+      "examples": [
+        "«по вашему заказу будет быстрее 2-3 недели»"
+      ],
+      "improvement": "Обращаться по имени (клиенты часто пишут имя в сообщении). Упоминать предыдущие заказы: «Вы ранее заказывали чехлы на Харриер, теперь новая машина?»"
+    },
+    {
+      "name": "Прогрев перед ценой",
+      "usage_pct": 18,
+      "count": "9 из 50",
+      "effective": true,
+      "examples": [
+        "«чехлы устанавливаются поверх родных кресел, все крепления в комплекте»"
+      ],
+      "improvement": "Увеличить с 18% до 80%: сначала описать преимущества (качество, материал, посадка), потом цену."
+    },
+    {
+      "name": "Работа с возражениями",
+      "usage_pct": 86,
+      "count": "43 из 50",
+      "effective": true,
+      "examples": [
+        "«чехлы устанавливаются поверх родных кресел, все крепления в комплекте»"
+      ],
+      "improvement": "Уже хорошо. Добавить технику «Да, и...»: «Да, цена выше, но этот материал служит в 3 раза дольше»."
+    },
+    {
+      "name": "Уточняющие вопросы (вместо готового ответа)",
+      "usage_pct": 68,
+      "count": "34 из 50",
+      "effective": true,
+      "examples": [
+        "«какая модель? какой год?»",
+        "«вам нужны только передние или все ряды?»"
+      ],
+      "improvement": "Уже неплохо. Довести до 100%: всегда уточнять модель, год, комплектацию, количество рядов."
+    },
+    {
+      "name": "Визуальные материалы (фото/видео)",
+      "usage_pct": 30,
+      "count": "15 из 50",
+      "effective": true,
+      "examples": [
+        "«хорошо, будем ждать фото»",
+        "«по фото понятно от какого харриера сиденья»"
+      ],
+      "improvement": "Предлагать фото самому без ожидания запроса. Создать каталог с фото для частых моделей."
+    }
+  ],
+  "research": [
+    {
+      "source": "Авито Помощь — правила коммуникации",
+      "findings": "Авито рекомендует: отвечать быстро (в течение часа), быть вежливым и приветливым, не давать ложных обещаний, не переходить на личности.",
+      "recommendations": "Соблюдать базовые правила Авито и дополнить проактивными техниками продаж."
+    },
+    {
+      "source": "Исследования конверсии в мессенджерах (Baymard Institute, 2024)",
+      "findings": "Средняя конверсия в мессенджерах на 15-25% выше, чем в обычных каналах. Ключевые факторы: скорость ответа (первые 5 минут критически важны), персонализация, открытые вопросы, визуальный контент.",
+      "recommendations": "Внедрить чат-инструкцию: ответ <5 мин, имя клиента, открытый вопрос, фото товара."
+    },
+    {
+      "source": "Методика SPIN Selling (Ракхел) для мессенджеров",
+      "findings": "SPIN в чатах: Situation (узнать ситуацию), Problem (выявить боль), Implication (показать последствия), Need-payoff (решение). Эффективность в сложных продажах — +30%.",
+      "recommendations": "Адаптировать SPIN для чат: сначала узнать машину (ситуация), потом выяснить что не устраивает в текущих чехлах (проблема), показать как новые чехлы решат эту проблему."
+    },
+    {
+      "source": "Лучшие практики продаж автотоваров на Авито",
+      "findings": "Четырёхшаговая модель: 1) Приветствие+интерес к запросу, 2) Уточнение деталей, 3) Коммерческое предложение, 4) Закрытие. Средняя конверсия на Авито в нише автотоваров: 15-25% при хорошем скрипте.",
+      "recommendations": "Внедрить чёткий 4-шаговый скрипт в каждом диалоге. Текущий показатель конверсии в контакт 56% — выше среднего, но есть резерв."
+    },
+    {
+      "source": "Техники закрытия продаж в мессенджерах",
+      "findings": "Эффективные закрытия: «Прямое» (Мы можем начать?), «Альтернативное» (Вам удобнее сегодня или завтра?), «Презумпционное» (Я оформляю заказ, какой цвет?).",
+      "recommendations": "На Авито лучше всего работает альтернативное закрытие: «Вам удобнее сегодня или завтра оформить?»."
+    }
+  ],
+  "recommended_new_techniques": [
+    {
+      "name": "Чёткий 4-шаговый скрипт для каждого диалога",
+      "description": "Шаг 1: Приветствие + интерес к запросу. Шаг 2: Уточнение (модель, год, комплектация). Шаг 3: Коммерческое предложение (описание + цена + фото). Шаг 4: Закрытие (контакт/заказ).",
+      "expected_impact": "Повышение конверсии в контакт с 56% до 75%"
+    },
+    {
+      "name": "Техника «Ценность до цены»",
+      "description": "Перед тем как назвать цену, описать 2-3 ключевые преимущества: материал, посадка, гарантия, срок службы.",
+      "expected_impact": "+10-15% к конверсии (снижение возражений по цене)"
+    },
+    {
+      "name": "Социальное доказательство и срочность",
+      "description": "«Этот рисунок берут чаще всего для этой модели», «На эту модель сейчас акция», «Осталось 2 комплекта в наличии».",
+      "expected_impact": "+20% к скорости принятия решения"
+    },
+    {
+      "name": "Альтернативное закрытие сделки",
+      "description": "Вместо «Будете заказывать?» использовать «Вам удобнее чёрный или коричневый?», «Будете забирать самовывозом или доставкой?».",
+      "expected_impact": "+15% к конверсии в заказ"
+    },
+    {
+      "name": "Автоматический прогрев перед первым ответом менеджера",
+      "description": "При новом чате автоматически отправлять приветствие с предложением помощи: «Здравствуйте! Подскажите, какая у вас машина? Подберу оптимальный вариант».",
+      "expected_impact": "Уменьшение первого ответа с 31 мин до <1 мин"
+    }
+  ]
+}
